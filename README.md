@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Ronal Rojas</h1>
-<h2 align="center">< Full Stack Developer 💻 /></h2>
-        <hr>
+<h2 align="center" style="color: orange">< Full Stack Developer 💻 /></h2>
 <img src='https://www.aluracursos.com/blog/assets/el-mejor-lenguaje-de-programacion/img-capa.png'/>
 <p align="left">💼Siempre he estado en contacto con nuevas tecnologías. Mi trabajo en los últimos 4 años con sistemas de gestión me llevo a toparme con el mundo de la programación. Desde entonces el interes y el entusiamo por el desarrollo web no se ha detenido solo se ha ido puliendo y perfeccionando.       
 </p>
