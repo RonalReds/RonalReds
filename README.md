@@ -3,7 +3,7 @@
 <img src='https://www.aluracursos.com/blog/assets/el-mejor-lenguaje-de-programacion/img-capa.png'/>
 <p align="left">💼Siempre he estado en contacto con nuevas tecnologías. Mi trabajo en los últimos 4 años con sistemas de gestión me llevo a toparme con el mundo de la programación. Desde entonces el interes y el entusiamo por el desarrollo web no se ha detenido solo se ha ido puliendo y perfeccionando.       
 </p>
-<p align="left">🎓Me he formado para diseñar tus paginas webs. Puedo hacer que tus ideas, proyectos y negocios pasen de estar en tu mente a estar visibles en toda la web. Mi experia practica academica en distintos proyectos son un aval del potencial y el aporte que puedo gener en tus proyectos.   
+<p align="left">🎓Me he formado para diseñar tus paginas webs. Puedo hacer que tus ideas, proyectos y negocios pasen de estar en tu mente a estar visibles en toda la web. Mi experia practica academica en distintos proyectos son un aval del potencial y el aporte que puedo generar en tus proyectos.   
 </p>
 
 <h4 align="left">Si consideras que puedo aportar valor a tu proyecto o a tu equipo de trabajo puedes contactarme:</h4>
